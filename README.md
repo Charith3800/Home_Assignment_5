@@ -33,7 +33,7 @@ This repository contains the code and documentation for *Home Assignment 5*, cov
 
 All code is contained in a single Jupyter notebook:
 
-📁 *File Name:* HomeWork_5_Allques.ipynb  
+📁 *File Name:* HomeWork_5_AllQues.ipynb  
 ✅ Designed for Google Colab (recommended) or any local Python environment.
 
 ---
