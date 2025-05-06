@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- *Name:* Charith Reddy Pitta
+- *Name:* Charith Reddy Putta
 - *Student ID:* 700759727
 - *CRN:* 23850
 - *Course:* CS5720 Neural Networks and Deep Learning
